@@ -1,5 +1,5 @@
 # DS_Modules
-Repository for Data Scince Course Projects 
+Repository for Data Science Course Projects
 
 
 ## Table of contents 
