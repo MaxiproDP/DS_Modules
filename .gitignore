@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#Big Data
+**/dst-3.0_16_1_hh_database.csv
