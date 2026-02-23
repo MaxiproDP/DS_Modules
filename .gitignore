@@ -209,3 +209,9 @@ __marimo__/
 #Big Data
 **/dst-3.0_16_1_hh_database.csv
 **/hotels.csv
+**/data/wine.csv
+**/data/wine_cleared.csv
+**/data/hotels.csv
+**/data/hotels_test.csv
+**/data/hotels_train.csv
+**/data/submission.csv
